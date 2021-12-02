@@ -1,0 +1,19 @@
+.sample1{
+  font-family:"Times New Roman", Times, serif; //돌출부있음
+}
+.orange{
+  background-color: orange;
+}
+@font-face {
+    font-family: 'twaysky';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_tway@1.0/twaysky.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+@font-face {
+font-family: 'UhBeeSeulvely';
+src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_five@.2.0/UhBeeSeulvely.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
